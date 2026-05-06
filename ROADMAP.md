@@ -6,8 +6,8 @@
 - [x] Modèle de données (bénévoles, bénéficiaires, missions)
 - [x] API REST basique (CRUD)
 - [x] Pages HTML simples (liste + formulaire)
-- [ ] Auth admin simple (token / basic)
-- [ ] Documentation minimale (README, data-model, architecture)
+- [x] Auth admin simple (token / basic)
+- [x] Documentation minimale (README, data-model, architecture)
 
 Objectif : plateforme utilisable en interne par une petite équipe.
 
@@ -17,22 +17,22 @@ Objectif : plateforme utilisable en interne par une petite équipe.
 
 ### Fonctionnel
 
-- [ ] Système de rôles : admin / coordinateur / bénévole (lecture limitée)
-- [ ] Filtrage / recherche sur les listes (par nom, statut, mission)
-- [ ] Historique simple des missions par bénévole / bénéficiaire
-- [ ] Statut des missions (planifiée, réalisée, annulée)
+- [x] Système de rôles : admin / coordinateur / bénévole (lecture limitée)
+- [x] Filtrage / recherche sur les listes (par nom, statut, mission)
+- [x] Historique simple des missions par bénévole / bénéficiaire
+- [x] Statut des missions (planifiée, réalisée, annulée)
 
 ### Technique
 
-- [ ] Ajout de tests automatisés (backend)
-- [ ] Dockerisation simple (backend + base de données)
-- [ ] Amélioration de la structure frontend (composants réutilisables)
+- [x] Ajout de tests automatisés (backend)
+- [x] Dockerisation simple (backend + base de données)
+- [x] Amélioration de la structure frontend (composants réutilisables)
 
 ### Gouvernance & docs
 
-- [ ] `governance.md` — rôles, responsabilités, processus de décision
-- [ ] `data-policy.md` — principes RGPD, minimisation, consentement
-- [ ] Guide d’installation pour petites associations (docs/)
+- [x] `governance.md` — rôles, responsabilités, processus de décision
+- [x] `data-policy.md` — principes RGPD, minimisation, consentement
+- [x] Guide d’installation pour petites associations (docs/)
 
 ---
 
